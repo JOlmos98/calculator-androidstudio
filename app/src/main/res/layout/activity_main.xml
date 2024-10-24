@@ -43,7 +43,8 @@
             app:layout_constraintHorizontal_bias="0.068"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="0.753" />
+            app:layout_constraintVertical_bias="0.753"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/eightBt"
@@ -57,7 +58,8 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/sevenBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/sevenBt"
@@ -71,7 +73,8 @@
             app:layout_constraintHorizontal_bias="0.049"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/cBt"
@@ -85,7 +88,8 @@
             app:layout_constraintHorizontal_bias="0.049"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/delBt"
@@ -99,7 +103,8 @@
             app:layout_constraintHorizontal_bias="0.478"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/divideBt"
@@ -113,7 +118,8 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/delBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/nineBt"
@@ -127,7 +133,8 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/eightBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/multiplyBt"
@@ -141,7 +148,8 @@
             app:layout_constraintHorizontal_bias="0.046"
             app:layout_constraintStart_toEndOf="@+id/nineBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/plusBt"
@@ -155,7 +163,8 @@
             app:layout_constraintHorizontal_bias="0.046"
             app:layout_constraintStart_toEndOf="@+id/sixBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/sixBt"
@@ -169,7 +178,8 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/fiveBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/fiveBt"
@@ -183,7 +193,8 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/fourBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/fourBt"
@@ -197,7 +208,8 @@
             app:layout_constraintHorizontal_bias="0.049"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/twoBt"
@@ -211,7 +223,8 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/oneBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/threeBt"
@@ -225,7 +238,8 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/twoBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/minusBt"
@@ -239,7 +253,8 @@
             app:layout_constraintHorizontal_bias="0.046"
             app:layout_constraintStart_toEndOf="@+id/threeBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/equalBt"
@@ -253,7 +268,8 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/dotBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="0.75" />
+            app:layout_constraintVertical_bias="0.75"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/dotBt"
@@ -267,7 +283,8 @@
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/zeroBt"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="0.75" />
+            app:layout_constraintVertical_bias="0.75"
+            app:rippleColor="#4DCBE4" />
 
         <Button
             android:id="@+id/oneBt"
@@ -281,7 +298,24 @@
             app:layout_constraintHorizontal_bias="0.049"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tb1"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintVertical_bias="1.0"
+            app:rippleColor="#4DCBE4" />
+
+        <TextView
+            android:id="@+id/resultTv"
+            android:layout_width="357dp"
+            android:layout_height="wrap_content"
+            android:background="#EFEFEF"
+            android:backgroundTint="#EFEFEF"
+            android:hint="Result"
+            android:textAlignment="textEnd"
+            android:textSize="48sp"
+            app:layout_constraintBottom_toTopOf="@+id/delBt"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.296"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tb1"
+            app:layout_constraintVertical_bias="0.707" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
